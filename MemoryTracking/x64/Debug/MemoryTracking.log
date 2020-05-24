@@ -1,0 +1,5 @@
+﻿  main.cpp
+  mynew.cpp
+C:\Users\user\source\repos\프로카데미(과제)\2020-04-29-학원과제(2)\MemoryTracking\MemoryTracking\mynew.cpp(47,30): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  MemoryTracking.vcxproj -> C:\Users\user\source\repos\프로카데미(과제)\2020-04-29-학원과제(2)\MemoryTracking\x64\Debug\MemoryTracking.exe

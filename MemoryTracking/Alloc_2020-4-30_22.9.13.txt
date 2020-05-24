@@ -1,0 +1,4 @@
+NOALLOC [0000021A1CE25E70] 
+LEAK    [0000021A1CE2AA40] [     1] C:\Users\user\source\repos\프로카데미(과제)\2020-04-29-학원과제(2)\MemoryTracking\MemoryTracking\main.cpp : 20 
+LEAK    [0000021A1CE2AB80] [     1] C:\Users\user\source\repos\프로카데미(과제)\2020-04-29-학원과제(2)\MemoryTracking\MemoryTracking\main.cpp : 21 
+LEAK    [0000021A1CE2ABA0] [     1] C:\Users\user\source\repos\프로카데미(과제)\2020-04-29-학원과제(2)\MemoryTracking\MemoryTracking\main.cpp : 22 
